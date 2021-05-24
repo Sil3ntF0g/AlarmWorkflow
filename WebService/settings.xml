@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SettingsConfiguration Version="1" Identifier="WebService">
+  <Setting Name="GoogleZoomLevel" Type="System.Int32" IsNull="False">12</Setting>
+  <Setting Name="OSMZoomLevel" Type="System.Int32" IsNull="False">17</Setting>
+
+  <Setting Name="Active" Type="System.Boolean" IsNull="False">true</Setting>  
+  <Setting Name="MaxAge" Type="System.Int32" IsNull="False">60</Setting>
+  <Setting Name="Port" Type="System.Int32" IsNull="False">9000</Setting>
+  <Setting Name="WebDirectory" Type="System.String" IsNull="False">C:\www</Setting>
+
+  <Setting Name="DwdId" Type="System.Int32" IsNull="True"></Setting>
+  <Setting Name="WeatherUndergroundKey" Type="System.String" IsNull="True"></Setting>
+  <Setting Name="WeatherUndergroundCity" Type="System.String" IsNull="True"></Setting>
+  
+  <Setting Name="CalendarUrls" Type="System.String" IsNull="True"></Setting>
+  <Setting Name="CalendarEntries" Type="System.Int32" IsNull="False">7</Setting>
+  
+</SettingsConfiguration>
