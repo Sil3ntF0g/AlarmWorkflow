@@ -3,9 +3,8 @@
 Open-Source, extensible application which analyzes an alarm fax and takes customizable actions (displaying on a screen, sending out E-Mails or SMS etc).
 
 ## Build Status
-| Stable | Development | Project |
-|--------|--------|--------|
-| [![Build status](https://ci.appveyor.com/api/projects/status/cmb2i57uio1biuqn/branch/master?svg=true)](https://ci.appveyor.com/project/ForrestFalcon/alarmworkflow-xitt2/branch/master) | [![Build status](https://ci.appveyor.com/api/projects/status/cmb2i57uio1biuqn/branch/next?svg=true)](https://ci.appveyor.com/project/ForrestFalcon/alarmworkflow-xitt2/branch/next) | [![Build status](https://ci.appveyor.com/api/projects/status/cmb2i57uio1biuqn?svg=true)](https://ci.appveyor.com/project/ForrestFalcon/alarmworkflow-xitt2) |
+[![Build status](https://ci.appveyor.com/api/projects/status/f9hnd9hd302iayck/branch/master?svg=true)](https://ci.appveyor.com/project/Sil3ntF0g/alarmworkflow/branch/master)
+
 
 ## License
 
